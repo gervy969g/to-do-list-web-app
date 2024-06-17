@@ -1,5 +1,5 @@
 body {
-    background-image: url('/static/background.jpg');
+    background-image: url('/templates/static/background.jpg.jpg');
     background-size: cover; /* This ensures the image covers the entire background */
     background-repeat: no-repeat;
     background-attachment: fixed; /* This makes the background image fixed */
