@@ -1,0 +1,20 @@
+body {
+    background-image: url('/static/background.jpg');
+    background-size: cover; /* This ensures the image covers the entire background */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This makes the background image fixed */
+    background-position: center; /* Center the image */
+}
+
+h1 {
+    color: #ffffff; /* Change text color to be visible against the background image */
+    text-shadow: 1px 1px 2px #000000; /* Add text shadow for better readability */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly opaque background for the main content */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
