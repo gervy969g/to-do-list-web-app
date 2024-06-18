@@ -1,5 +1,5 @@
 body {
-    background-image: url('/templates/static/images/background.jpg.jpg');
+    background-image: url('C:\Users\Lenovo\OneDrive\Documents\to-do-list-web-app\templates\static\images');
     background-size: cover; /* This ensures the image covers the entire background */
     background-repeat: no-repeat;
     background-attachment: fixed; /* This makes the background image fixed */
