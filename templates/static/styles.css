@@ -1,14 +1,10 @@
 body {
-    background-image: url('/static/images/background.jpg');
-    background-size: cover;
+    background-image: url('/templates/static/images/background.jpg.jpg');
+    background-size: cover; /* This ensures the image covers the entire background */
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    margin: 0;
-    font-family: Arial, sans-serif;
+    background-attachment: fixed; /* This makes the background image fixed */
+    background-position: center; /* Center the image */
 }
-
-/* Other styles */
-
 
 h1 {
     color: #ffffff; /* Change text color to be visible against the background image */
